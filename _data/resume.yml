@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "https://pbs.twimg.com/profile_images/643518892434923524/mNerIaXK.jpg"
+name: "Nikki Vinayan"
+copy: "Backend Developer, located NY,USA. Recent graduate from University of Melbourne, seeking full time positions."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default
