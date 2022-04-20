@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Nikki Vinayan
 title: Senior Software Engineer, Search
-email: mail at nikvi dot com
+email: mail@nikvi dot com
 website: www.nikvi.com
 
 # Dark Mode (true/false/never)
@@ -66,8 +66,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at there, I learnt about Distributed Systems, Distributed Algorithms, Cluster and Cloud Computing. My thesis was "Cache based path routing in road."
 
-          I spent a lot of my free time as a committee member of the *Women in ICT club* taking on therole of *President*. 
-          I was also the *Computer Science Graduate Ambassador*, helped run "Introduction to Computing" session for high school girls and women. I also volunteered for *Robogals* aroud this time.
+          I spent a lot of my free time as a committee member of the *Women in ICT club* taking on the role of *President*. 
+          I was also the *Computer Science Graduate Ambassador*, helped run "Introduction to Computing" sessions for high school girls and women. I also volunteered for *Robogals* aroud this time.
           Also International Grace Hopper Scholar in 2014, finalist for the Google Anita Borg Scholarship 2014.
 
   - title: Experience # Title for the section
