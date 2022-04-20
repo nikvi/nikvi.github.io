@@ -53,36 +53,35 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>search</mark> and <mark>data</mark>
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of Melbourne
-        caption: 2014 - 2015
-        # link_text: sproogen/modern-resume-theme
-        sub_title: MSc Computer Science
-        quote: >
-          Established in 1852, the University of Melbounrne is the second oldest higher education institution in the Australia, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just Australia but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at there, I learnt about Distributed Systems, Distributed Algorithms, Cluster and Cloud Computing. My thesis was "Cache based path routing in road."
-
-          I spent a lot of my free time as a committee member of the *Women in ICT club* taking on the role of *President*. 
-          I was also the *Computer Science Graduate Ambassador*, helped run "Introduction to Computing" sessions for high school girls and women. I also volunteered for *Robogals* aroud this time.
-          Also International Grace Hopper Scholar in 2014, finalist for the Google Anita Borg Scholarship 2014.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: GIPHY
+        border: weak
         link: giphy.com
-        # link_text: boringcompany.com
+        link_text: GIPHY
         sub_title: Senior Software Engineer
         caption: October 2019 - Present
         quote: >
           GIPHY is the best way to search, share, discover and create GIFs on the Internet. 
         description: | # this will include new lines to allow paragraphs
-            Design and code massively scalable services to provide a continually improving search experience, seen by millions of users around the globe daily. 
+          Design and code massively scalable services to provide a continually improving search experience, seen by millions of users around the globe daily. 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: left
+      title: University of Melbourne
+      caption: 2014 - 2015
+      # link_text: sproogen/modern-resume-theme
+      sub_title: MSc Computer Science
+      description: | # this will include new lines to allow paragraphs
+        The coursework was a combination of Distributed Systems with Declarative languages.
+        During my time at there, I learnt about Distributed Systems, Distributed Algorithms, Cluster and Cloud Computing. My thesis was "Cache based path routing in road."
+
+        I spent a lot of my free time as a committee member of the *Women in ICT club* taking on the role of *President*. 
+        I was also the *Computer Science Graduate Ambassador*, helped run "Introduction to Computing" sessions for high school girls and women. I also volunteered for *Robogals* aroud this time.
+        Also International Grace Hopper Scholar in 2014, finalist for the Google Anita Borg Scholarship 2014.
 
   - title: A Little More About Me
     layout: text
