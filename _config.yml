@@ -66,7 +66,25 @@ content:
         quote: >
           GIPHY is the best way to search, share, discover and create GIFs on the Internet. 
         description: | # this will include new lines to allow paragraphs
-          Design and code massively scalable services to provide a continually improving search experience, seen by millions of users around the globe daily. 
+          Giphy was aquired by Meta and later sold to Shutterstock. As a Search Engineer at GIPHY, I have contributed significantly to enhancing the search experience for a global audience through several key projects:
+          * Development and Expansion of Trending Feed. I led the development of a dynamic trending feed that offers push-based recommendations, using robust data pipelines and Elastic MapReduce (EMR) to ensure real-time delivery. This feature has become a key product, enhancing user experience with personalized content.
+          * User Search Enablement. I played a crucial role in enabling users to upload and search their content on GIPHY using their usernames, improving user interaction with the platform.
+          * ML-Based Content Moderation Prototype. I collaborated on prototyping a machine learning-based content moderation system using Python, Seldon, Luigi, and Scikit. This project aimed to improve the platform's safety and inclusivity, ultimately being adopted by the content moderation team to enhance productivity and reduce exposure to harmful content.
+      - layout: left
+        title: Jet.com
+        border: weak
+        sub_title: Senior Software Engineer
+        description:
+          At Jet.com, which was acquired by Walmart, I focused on developing end-to-end solutions for search functionality. This included architecting solutions, ranking search results, creating analyst tools, managing search indexing, data pipelines, and deploying models. The main project involved building NLP libraries for Query Expansion and SKU understanding, which significantly improved search metrics by integrating machine learning into search service. Additionally, I was involved in various other responsibilities, such as
+          * Use of A/B testing to assess the performance of models and algorithms at scale.
+          * developed models and criteria for multi-dimensional analysis.
+          * data pipelines to track customer interactions on Jet’s web and mobile platforms.
+          * participated in an on-call rotation, handling deployment and load testing, using tools like Splunk and New Relic.
+          * mentored new hires, conducted technical interviews
+          * enabled CI/CD deployment pipelines, including migrating F# microservices to DotNetCore Docker services.
+
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,7 +103,7 @@ content:
       # link_text: sproogen/modern-resume-theme
       sub_title: MSc Computer Science
       description: | # this will include new lines to allow paragraphs
-        The coursework comprised a blend of Distributed Systems and Declarative languages.Throughout my time there, I learnt about Distributed Systems, Distributed Algorithms, Cluster, and Cloud Computing. My thesis focused on "Cache-based Path Routing in Roads."
+        The coursework comprised a blend of Distributed Systems and Declarative languages. Throughout my time there, I learned about Distributed Systems, Distributed Algorithms, Cluster, and Cloud Computing. My thesis focused on "Cache-based Path Routing in Roads."
         In my spare time, I served as a committee member of the Women in ICT club, where I held the position of President. Additionally, I served as the Computer Science Graduate Ambassador, facilitating "Introduction to Computing" sessions for high school girls and women. Concurrently, I volunteered with Robogals. Notably, I was selected as the International Grace Hopper Scholar in 2014 and was a finalist for the Google Anita Borg Scholarship the same year.
 
   - title: A Little More About Me
@@ -93,7 +111,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in search and software engineering some of my other interests and hobbies are:
       - Comic/Dark Fantasy geek esp:- Neil Gaiman,Terry Pratchett.
-      - Giving back to the community
+      - Giving back to the community through volunteering
       - Continous learning - NLP, AI, MLOps!
 
     # Look at this cool image  
