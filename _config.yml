@@ -71,17 +71,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
     - layout: left
+      title: Stanford School of Engineering
+      caption: 2021 -2022
+      sub_title: Artificial Intelligence Professional Program
+      link_text: https://online.stanford.edu/programs/artificial-intelligence-professional-program
+      description:
+        I completed three rigorous courses adapted from Stanford's on-campus graduate curriculum, covering topics such as AI principles and techniques, natural language processing with deep learning, and machine learning with graphs. These courses, taught by leading experts in the field, have equipped me with the knowledge and skills to tackle complex AI problems and implement cutting-edge algorithms effectively.
+
+
+    - layout: left
       title: University of Melbourne
       caption: 2014 - 2015
       # link_text: sproogen/modern-resume-theme
       sub_title: MSc Computer Science
       description: | # this will include new lines to allow paragraphs
-        The coursework was a combination of Distributed Systems with Declarative languages.
-        During my time at there, I learnt about Distributed Systems, Distributed Algorithms, Cluster and Cloud Computing. My thesis was "Cache based path routing in road."
-
-        I spent a lot of my free time as a committee member of the *Women in ICT club* taking on the role of *President*. 
-        I was also the *Computer Science Graduate Ambassador*, helped run "Introduction to Computing" sessions for high school girls and women. I also volunteered for *Robogals* aroud this time.
-        Also International Grace Hopper Scholar in 2014, finalist for the Google Anita Borg Scholarship 2014.
+        The coursework comprised a blend of Distributed Systems and Declarative languages.Throughout my time there, I learnt about Distributed Systems, Distributed Algorithms, Cluster, and Cloud Computing. My thesis focused on "Cache-based Path Routing in Roads."
+        In my spare time, I served as a committee member of the Women in ICT club, where I held the position of President. Additionally, I served as the Computer Science Graduate Ambassador, facilitating "Introduction to Computing" sessions for high school girls and women. Concurrently, I volunteered with Robogals. Notably, I was selected as the International Grace Hopper Scholar in 2014 and was a finalist for the Google Anita Borg Scholarship the same year.
 
   - title: A Little More About Me
     layout: text
