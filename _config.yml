@@ -74,8 +74,9 @@ content:
         title: Jet.com
         border: weak
         sub_title: Senior Software Engineer
-        description:
-          At Jet.com, which was acquired by Walmart, I focused on developing end-to-end solutions for search functionality. This included architecting solutions, ranking search results, creating analyst tools, managing search indexing, data pipelines, and deploying models. The main project involved building NLP libraries for Query Expansion and SKU understanding, which significantly improved search metrics by integrating machine learning into search service. Additionally, I was involved in various other responsibilities, such as
+        description: |
+          At Jet.com, which was acquired by Walmart, I focused on developing end-to-end solutions for search functionality. This included architecting solutions, ranking search results, creating analyst tools, managing search indexing, data pipelines, and deploying models. 
+          The main project involved building NLP libraries for Query Expansion and SKU understanding, which significantly improved search metrics by integrating machine learning into search service. Additionally, I was involved in various other responsibilities, such as:
           * Use of A/B testing to assess the performance of models and algorithms at scale.
           * developed models and criteria for multi-dimensional analysis.
           * data pipelines to track customer interactions on Jet’s web and mobile platforms.
