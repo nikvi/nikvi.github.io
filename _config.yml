@@ -91,11 +91,11 @@ content:
     content:
     - layout: left
       title: Stanford School of Engineering
-      caption: 2021 -2022
+      caption: 2021 - 2022
       sub_title: Artificial Intelligence Professional Program
       link_text: https://online.stanford.edu/programs/artificial-intelligence-professional-program
       description:
-        I completed three rigorous courses adapted from Stanford's on-campus graduate curriculum, covering topics such as AI principles and techniques, natural language processing with deep learning, and machine learning with graphs. These courses, taught by leading experts in the field, have equipped me with the knowledge and skills to tackle complex AI problems and implement cutting-edge algorithms effectively.
+        I completed three rigorous online courses adapted from Stanford's on-campus graduate curriculum, covering topics such as AI principles and techniques, natural language processing with deep learning, and machine learning with graphs. These courses, taught by leading experts in the field, have equipped me with the knowledge and skills to tackle complex AI problems and implement cutting-edge algorithms effectively.
 
 
     - layout: left
@@ -104,13 +104,13 @@ content:
       # link_text: sproogen/modern-resume-theme
       sub_title: MSc Computer Science
       description: | # this will include new lines to allow paragraphs
-        The coursework comprised a blend of Distributed Systems and Declarative languages. Throughout my time there, I learned about Distributed Systems, Distributed Algorithms, Cluster, and Cloud Computing. My thesis focused on "Cache-based Path Routing in Roads."
+        The coursework I undertook was a rigorous blend of Distributed Systems and Declarative languages. Over the course of my studies, I delved into the intricacies of Distributed Systems, Distributed Algorithms, Cluster, and Cloud Computing. My thesis, a culmination of my academic journey, focused on the innovative concept of 'Cache-based Path Routing in Roads '.
         In my spare time, I served as a committee member of the Women in ICT club, where I held the position of President. Additionally, I served as the Computer Science Graduate Ambassador, facilitating "Introduction to Computing" sessions for high school girls and women. Concurrently, I volunteered with Robogals. Notably, I was selected as the International Grace Hopper Scholar in 2014 and was a finalist for the Google Anita Borg Scholarship the same year.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in search and software engineering some of my other interests and hobbies are:
+      Alongside my interests in search and software engineering, some of my other interests and hobbies are:
       - Comic/Dark Fantasy geek esp:- Neil Gaiman,Terry Pratchett.
       - Giving back to the community through volunteering
       - Continous learning - NLP, AI, MLOps!
