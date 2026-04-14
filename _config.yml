@@ -10,6 +10,7 @@ name: Nikki Vinayan
 title: Senior Software Engineer, Search
 email: mail@nikvi dot com
 website: www.nikvi.com
+description: "Nikki Vinayan | About Me"
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -111,7 +112,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in search and software engineering, some of my other interests and hobbies are:
-      - Comic/Dark Fantasy geek esp:- Neil Gaiman,Terry Pratchett.
+      - Comic/Dark Fantasy:- Terry Pratchett.
       - Giving back to the community through volunteering
       - Continous learning - NLP, AI, MLOps!
 
