@@ -58,23 +58,56 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Fora Travel, Inc.
+        border: weak
+        sub_title: Sr. Software Engineer
+        caption: May 2026 - Present
+        description: | # this will include new lines to allow paragraphs
+          On the Hotel Content engineering team, I build the automated data pipelines, REST APIs, and backend services (Django/DRF, Postgres) that move hotel catalog workflows from manual entry to LLM-driven ingestion.
+          * Delivered a production extraction engine powered by Anthropic and Gemini tool-calling, alongside Firecrawl, to automate multi-supplier room data ingestion.
+          * Hardened pipeline reliability with Datadog monitoring and automated retry mechanisms.
+          * Built backend APIs powering internal content review tools.
+          * Currently building evaluation frameworks to benchmark prompt accuracy, prevent extraction regressions, and ensure reliable structured data at scale.
+      - layout: left
+        title: Shutterstock, Inc. (GIPHY)
+        border: weak
+        sub_title: Sr. Search Engineer
+        caption: June 2023 - April 2026
+        description: | # this will include new lines to allow paragraphs
+          As Interim Search Tech Lead at Shutterstock (GIPHY), I drove the algorithmic evolution, infrastructure modernization, and operational stability of the core search engine through the post-acquisition transition.
+          * Moved ranking away from manual curation toward a data-driven CTR scoring and Learning to Rank (LTR) model ecosystem, and added LLM query understanding and prefix weighting, with relevance gains confirmed by A/B testing.
+          * Spearheaded deep-content OCR indexing to unlock meme and long-tail text discovery.
+          * Led the major Elasticsearch migration to ES 7.10/OpenSearch.
+          * At up to 320,000 RPS, cut LTR latency from 130 ms to 100 ms and kept 100% service continuity through leadership transitions, improving CTR, MRR, and Zero Result Rate (ZRR) for tier-one partners like WhatsApp, Meta, and Reddit.
+          * Drove roadmap planning, mentored new engineers through knowledge-sharing sessions on legacy systems, and owned backlog management to keep the team aligned and unblocked.
+      - layout: left
+        title: Meta Platforms, Inc. (GIPHY)
+        border: weak
+        sub_title: Sr. Search Engineer
+        caption: May 2020 - June 2023
+        description: | # this will include new lines to allow paragraphs
+          Joined Meta through Instagram's acquisition of GIPHY. As a Search and Backend Engineer, I designed and scaled core discovery and ranking services across GIPHY's global distribution network.
+          * Extended the trending feed into personalized experiences for each API customer, enhancing product engagement and converting 6+ enterprise-level freemium users into paid users.
+          * ML-Based Content Moderation Prototype. Collaborated on prototyping a machine learning-based content moderation system using Python, scikit-learn, Seldon, and Luigi to make the platform safer and more inclusive. It was adopted into the content moderation team's workflow, improving moderator productivity by 30% and reducing their exposure to NSFW/unsafe content.
+          * Worked on search and content moderation projects simultaneously within a six-month timeframe improving critical search metrics, such as click-through rate (CTR) and mean reciprocal rank (MRR) through query optimization, internationalization etc.
+      - layout: left
         title: GIPHY
         border: weak
         link: giphy.com
         link_text: GIPHY
         sub_title: Senior Software Engineer
-        caption: October 2019 - Present
+        caption: October 2019 - May 2020
         quote: >
           GIPHY is the best way to search, share, discover and create GIFs on the Internet. 
         description: | # this will include new lines to allow paragraphs
-          Giphy was aquired by Meta and later sold to Shutterstock. As a Search Engineer at GIPHY, I have contributed significantly to enhancing the search experience for a global audience through several key projects:
+          Giphy was acquired by Meta and later sold to Shutterstock. As a Search Engineer at GIPHY, I have contributed significantly to enhancing the search experience for a global audience through several key projects:
           * Development and Expansion of Trending Feed. I led the development of a dynamic trending feed that offers push-based recommendations, using robust data pipelines and Elastic MapReduce (EMR) to ensure real-time delivery. This feature has become a key product, enhancing user experience with personalized content.
           * User Search Enablement. I played a crucial role in enabling users to upload and search their content on GIPHY using their usernames, improving user interaction with the platform.
-          * ML-Based Content Moderation Prototype. I collaborated on prototyping a machine learning-based content moderation system using Python, Seldon, Luigi, and Scikit. This project aimed to improve the platform's safety and inclusivity, ultimately being adopted by the content moderation team to enhance productivity and reduce exposure to harmful content.
       - layout: left
         title: Jet.com
         border: weak
         sub_title: Senior Software Engineer
+        caption: March 2016 - October 2019
         description: |
           At Jet.com, which was acquired by Walmart, I focused on developing end-to-end solutions for search functionality. This included architecting solutions, ranking search results, creating analyst tools, managing search indexing, data pipelines, and deploying models. 
           The main project involved building NLP libraries for Query Expansion and SKU understanding, which significantly improved search metrics by integrating machine learning into search service. Additionally, I was involved in various other responsibilities, such as:
@@ -114,7 +147,7 @@ content:
       Alongside my interests in search and software engineering, some of my other interests and hobbies are:
       - Comic/Dark Fantasy:- Terry Pratchett.
       - Giving back to the community through volunteering
-      - Continous learning - NLP, AI, MLOps!
+      - Continuous learning - NLP, AI, MLOps!
 
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
